@@ -1,8 +1,14 @@
-{
-	"name" : "Lyumy",
-	"birthday" : "1995-01-03",
-	"hobby" : "sleepping",
-	"favorite color" : "blue",
-	"weight" : "120kg",
-	"telephont" : 1234567890
-}
+[
+	{
+		"lable" : "这是第一列的表头",
+		"value" : "这是第二列的表头"
+	},
+	{
+		"name" : "Lyumy",
+		"birthday" : "1995-01-03",
+		"hobby" : "sleepping",
+		"favorite color" : "blue",
+		"weight" : "120kg",
+		"telephont" : 1234567890
+	}
+]
